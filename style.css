@@ -1,0 +1,27 @@
+.group {
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+  flex: 1;
+}
+
+body {
+  padding: 10px 30%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin: 10px 0;
+}
+
+textarea {
+  height: 120px;
+}
+
+h1 {
+  margin-top: 0;
+}
